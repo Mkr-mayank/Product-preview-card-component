@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Project Link](https://github.com/Mkr-mayank/Project-preview-card-component)
-- Live Site URL: [Website Link](https://mkr-mayank.github.io/Project-preview-card-component/)
+- Solution URL: [Project Link](https://github.com/Mkr-mayank/Product-preview-card-component)
+- Live Site URL: [Website Link](https://mkr-mayank.github.io/Product-preview-card-component/)
 
 ## My process
 
